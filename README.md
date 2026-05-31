@@ -1,4 +1,4 @@
-# Graph Neural Networks for Vertex Cover & Edge Dominating Set
+# Graph Neural Networks for Approximating Vertex Cover & Matching Problems
 
 ## Overview
 This project investigates the use of **Graph Neural Networks (GNNs)** to approximate solutions for two classical NP-hard problems:
