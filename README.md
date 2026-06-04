@@ -102,4 +102,3 @@ Lower approximation ratio indicates better performance.
 
 ## Authors
 - Debrup Chatterjee
-- Debanjan Kola
